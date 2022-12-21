@@ -2,8 +2,10 @@
 A Python implementation for a simple ant colony optimization (ACO) algorithm that solves the Traveling Salesman Problem in order to help food delivery drivers find the most optimal food delivery route when given a list of `n` restaurants.
 
 Built using NumPy, Matplotlib, and GeoPy libraries.
+
+Made for EN-250 at Stevens Institute of Technology
  
-# How to Setup
+## How to Setup
 Fill in the following input parameters (lines 103-121) in `aco.py`:
 - `num_ants`: the number of computer-generated ants in an iteration’s colony
 - `num_iterations`: the number of iterations that the ACO will be run on the graph
